@@ -1,0 +1,201 @@
+record_id,platform,company_name,edtech_segment,content_type,raw_text,category,issue_type,sentiment,date_posted
+1,X,WhiteHat Jr,Test Prep,Comment,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-08-01
+2,Reddit,WhiteHat Jr,Upskilling,Review,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-09-10
+3,X,Byju’s,Upskilling,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-01-21
+4,YouTube,UpGrad,Test Prep,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-07-01
+5,YouTube,UpGrad,Upskilling,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-04-03
+6,X,Scaler,K-12,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-08-17
+7,YouTube,UpGrad,Upskilling,Post,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-03-31
+8,Google Reviews,Simplilearn,Upskilling,Review,Got placed after completing the course,Positive,Valid Placement,Positive,2023-08-19
+9,X,UpGrad,Test Prep,Review,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-10-19
+10,YouTube,Unacademy,Test Prep,Post,Teachers and study material are really good,Positive,Good Content,Positive,2024-04-28
+11,X,Simplilearn,Upskilling,Comment,Teachers and study material are really good,Positive,Good Content,Positive,2023-01-14
+12,Reddit,Unacademy,Upskilling,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-02-19
+13,X,Simplilearn,Upskilling,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-04-18
+14,Google Reviews,Simplilearn,Upskilling,Tweet,Teachers and study material are really good,Positive,Good Content,Positive,2024-06-01
+15,X,Byju’s,Test Prep,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-05-27
+16,X,UpGrad,K-12,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-04-15
+17,YouTube,Byju’s,Test Prep,Tweet,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-05-31
+18,YouTube,Byju’s,K-12,Post,Teachers and study material are really good,Positive,Good Content,Positive,2023-08-14
+19,X,Scaler,K-12,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-07-24
+20,Reddit,Unacademy,Test Prep,Post,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-04-17
+21,Google Reviews,Unacademy,Upskilling,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-06-28
+22,Google Reviews,Scaler,Upskilling,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2023-03-16
+23,Reddit,Scaler,Upskilling,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-11-22
+24,X,Unacademy,Upskilling,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-10-31
+25,Google Reviews,Simplilearn,K-12,Tweet,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-01-14
+26,Google Reviews,Unacademy,K-12,Tweet,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-04-03
+27,X,Simplilearn,Test Prep,Tweet,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-03-12
+28,X,Simplilearn,K-12,Tweet,Got placed after completing the course,Positive,Valid Placement,Positive,2024-02-08
+29,YouTube,PhysicsWallah,Upskilling,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-02-28
+30,Google Reviews,PhysicsWallah,Upskilling,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-08-21
+31,Reddit,WhiteHat Jr,Upskilling,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-12-01
+32,X,Byju’s,Upskilling,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-09-01
+33,Google Reviews,WhiteHat Jr,Test Prep,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-05-12
+34,YouTube,WhiteHat Jr,K-12,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-09-22
+35,YouTube,PhysicsWallah,Test Prep,Tweet,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-05-26
+36,Reddit,Unacademy,Upskilling,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-12-21
+37,YouTube,Scaler,Upskilling,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-12-01
+38,Google Reviews,UpGrad,Upskilling,Comment,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-09-14
+39,Reddit,UpGrad,Upskilling,Post,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-09-08
+40,Reddit,PhysicsWallah,Upskilling,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-01-28
+41,Google Reviews,Byju’s,K-12,Tweet,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-06-17
+42,Reddit,Unacademy,K-12,Post,Teachers and study material are really good,Positive,Good Content,Positive,2024-03-12
+43,X,UpGrad,Upskilling,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-05-29
+44,Google Reviews,PhysicsWallah,Upskilling,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-05-31
+45,YouTube,Byju’s,K-12,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-08-16
+46,Reddit,Simplilearn,K-12,Post,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-11-08
+47,Google Reviews,Scaler,K-12,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-11-09
+48,X,WhiteHat Jr,Test Prep,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-09-13
+49,Reddit,UpGrad,K-12,Review,Teachers and study material are really good,Positive,Good Content,Positive,2024-04-09
+50,Reddit,Scaler,Test Prep,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-01-26
+51,Reddit,UpGrad,Upskilling,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-07-13
+52,X,WhiteHat Jr,K-12,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-04-27
+53,Google Reviews,Scaler,K-12,Tweet,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-02-08
+54,X,Simplilearn,Test Prep,Post,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-05-08
+55,Google Reviews,Scaler,Upskilling,Comment,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-10-20
+56,Reddit,Byju’s,Upskilling,Post,Teachers and study material are really good,Positive,Good Content,Positive,2023-08-16
+57,YouTube,Scaler,Upskilling,Review,Got placed after completing the course,Positive,Valid Placement,Positive,2023-01-04
+58,YouTube,PhysicsWallah,Upskilling,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-11-08
+59,X,PhysicsWallah,Upskilling,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-05-19
+60,YouTube,Simplilearn,Test Prep,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-10-11
+61,X,UpGrad,Upskilling,Review,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-07-24
+62,Reddit,UpGrad,Upskilling,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-09-26
+63,X,Unacademy,K-12,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-09-19
+64,Reddit,UpGrad,Test Prep,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-07-30
+65,Reddit,Scaler,Test Prep,Review,Teachers and study material are really good,Positive,Good Content,Positive,2023-11-18
+66,YouTube,Simplilearn,Test Prep,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-08-01
+67,Reddit,UpGrad,Test Prep,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-03-01
+68,X,Scaler,K-12,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-05-26
+69,Google Reviews,PhysicsWallah,Test Prep,Review,Got placed after completing the course,Positive,Valid Placement,Positive,2023-07-03
+70,Google Reviews,Unacademy,Upskilling,Review,Teachers and study material are really good,Positive,Good Content,Positive,2024-10-05
+71,X,Scaler,Upskilling,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-03-28
+72,X,Unacademy,K-12,Review,Got placed after completing the course,Positive,Valid Placement,Positive,2023-08-16
+73,Reddit,Simplilearn,Test Prep,Tweet,Got placed after completing the course,Positive,Valid Placement,Positive,2024-05-01
+74,Reddit,Byju’s,K-12,Comment,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-04-24
+75,Google Reviews,UpGrad,K-12,Review,Got placed after completing the course,Positive,Valid Placement,Positive,2024-01-24
+76,YouTube,PhysicsWallah,Test Prep,Comment,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-09-15
+77,YouTube,Simplilearn,Upskilling,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-11-08
+78,X,Simplilearn,Test Prep,Review,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-02-15
+79,YouTube,PhysicsWallah,Upskilling,Post,Teachers and study material are really good,Positive,Good Content,Positive,2024-08-22
+80,YouTube,WhiteHat Jr,K-12,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-04-15
+81,Google Reviews,PhysicsWallah,Upskilling,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-05-16
+82,X,Byju’s,K-12,Review,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-07-15
+83,YouTube,PhysicsWallah,Upskilling,Tweet,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-05-19
+84,YouTube,PhysicsWallah,K-12,Review,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-01-08
+85,X,UpGrad,Test Prep,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-02-18
+86,Google Reviews,UpGrad,K-12,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-02-23
+87,Google Reviews,Scaler,Upskilling,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-09-11
+88,X,Unacademy,K-12,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-08-14
+89,Google Reviews,PhysicsWallah,Upskilling,Post,Teachers and study material are really good,Positive,Good Content,Positive,2023-03-01
+90,Reddit,Byju’s,Test Prep,Review,Teachers and study material are really good,Positive,Good Content,Positive,2024-04-11
+91,YouTube,Unacademy,K-12,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-11-12
+92,Google Reviews,Scaler,Test Prep,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-11-20
+93,YouTube,Unacademy,K-12,Tweet,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-12-05
+94,Google Reviews,UpGrad,K-12,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-06-03
+95,Reddit,UpGrad,Test Prep,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-10-23
+96,X,Byju’s,K-12,Comment,Teachers and study material are really good,Positive,Good Content,Positive,2023-04-22
+97,YouTube,Scaler,K-12,Post,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-06-08
+98,YouTube,Unacademy,K-12,Comment,Got placed after completing the course,Positive,Valid Placement,Positive,2023-05-28
+99,Reddit,Byju’s,K-12,Comment,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-01-16
+100,Google Reviews,WhiteHat Jr,Upskilling,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-03-06
+101,Reddit,Unacademy,Upskilling,Tweet,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-11-26
+102,YouTube,Simplilearn,Test Prep,Post,Teachers and study material are really good,Positive,Good Content,Positive,2023-12-19
+103,Google Reviews,Unacademy,Test Prep,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-05-30
+104,Reddit,Byju’s,Upskilling,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-08-11
+105,Reddit,UpGrad,K-12,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-01-07
+106,Reddit,Unacademy,Upskilling,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-07-07
+107,Google Reviews,PhysicsWallah,Upskilling,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2023-09-28
+108,YouTube,Simplilearn,K-12,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-08-22
+109,YouTube,WhiteHat Jr,Test Prep,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-10-27
+110,Reddit,Simplilearn,Upskilling,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-11-29
+111,X,Byju’s,Test Prep,Comment,Teachers and study material are really good,Positive,Good Content,Positive,2024-01-08
+112,Google Reviews,Unacademy,K-12,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-01-30
+113,Google Reviews,UpGrad,K-12,Comment,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-11-06
+114,Google Reviews,UpGrad,K-12,Comment,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-04-14
+115,X,UpGrad,K-12,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-02-19
+116,Reddit,Byju’s,K-12,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-12-08
+117,X,Byju’s,Test Prep,Review,Teachers and study material are really good,Positive,Good Content,Positive,2023-03-01
+118,Google Reviews,Simplilearn,Test Prep,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-01-12
+119,YouTube,Byju’s,Upskilling,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-08-25
+120,YouTube,Scaler,K-12,Comment,Teachers and study material are really good,Positive,Good Content,Positive,2023-01-08
+121,YouTube,Simplilearn,Upskilling,Post,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-11-13
+122,Reddit,Byju’s,Upskilling,Tweet,Got placed after completing the course,Positive,Valid Placement,Positive,2024-06-07
+123,Google Reviews,Byju’s,Upskilling,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-02-29
+124,YouTube,WhiteHat Jr,K-12,Review,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-12-11
+125,Google Reviews,WhiteHat Jr,K-12,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-12-25
+126,YouTube,Simplilearn,Upskilling,Comment,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-08-17
+127,Google Reviews,Byju’s,Upskilling,Tweet,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-11-13
+128,X,Scaler,Upskilling,Tweet,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-01-18
+129,X,Scaler,Test Prep,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-11-15
+130,Reddit,Scaler,K-12,Review,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-11-07
+131,YouTube,Byju’s,Upskilling,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-06-14
+132,X,PhysicsWallah,K-12,Comment,Got placed after completing the course,Positive,Valid Placement,Positive,2023-08-19
+133,Reddit,Byju’s,Upskilling,Comment,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-06-06
+134,YouTube,WhiteHat Jr,Upskilling,Post,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-06-29
+135,X,UpGrad,Test Prep,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-06-05
+136,Reddit,UpGrad,Test Prep,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-11-30
+137,YouTube,Scaler,K-12,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-04-22
+138,X,WhiteHat Jr,Upskilling,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-01-06
+139,Reddit,Scaler,Test Prep,Post,Teachers and study material are really good,Positive,Good Content,Positive,2023-06-19
+140,YouTube,PhysicsWallah,Upskilling,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-06-18
+141,X,WhiteHat Jr,K-12,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-09-08
+142,Reddit,PhysicsWallah,Upskilling,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-06-13
+143,YouTube,UpGrad,K-12,Tweet,Teachers and study material are really good,Positive,Good Content,Positive,2023-10-01
+144,Reddit,PhysicsWallah,Upskilling,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-01-09
+145,X,Scaler,Upskilling,Review,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-04-22
+146,Reddit,WhiteHat Jr,K-12,Comment,Got placed after completing the course,Positive,Valid Placement,Positive,2023-03-17
+147,Google Reviews,WhiteHat Jr,Test Prep,Review,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-01-27
+148,X,Simplilearn,Test Prep,Review,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-06-12
+149,Reddit,Scaler,Upskilling,Comment,Got placed after completing the course,Positive,Valid Placement,Positive,2024-10-09
+150,X,Unacademy,Upskilling,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-08-16
+151,YouTube,Byju’s,K-12,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-03-07
+152,Google Reviews,UpGrad,Upskilling,Post,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-07-02
+153,YouTube,Scaler,Upskilling,Comment,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-07-09
+154,YouTube,UpGrad,Upskilling,Review,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-09-05
+155,X,UpGrad,Test Prep,Comment,Teachers and study material are really good,Positive,Good Content,Positive,2024-01-05
+156,Google Reviews,Byju’s,Upskilling,Review,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-11-22
+157,X,Scaler,Upskilling,Tweet,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-01-06
+158,YouTube,Unacademy,K-12,Review,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-07-16
+159,Reddit,Simplilearn,Upskilling,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-11-05
+160,Reddit,Unacademy,Test Prep,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-08-26
+161,Reddit,UpGrad,Test Prep,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-03-17
+162,Google Reviews,Scaler,K-12,Review,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-07-17
+163,Google Reviews,WhiteHat Jr,Upskilling,Review,Course price is too high for the value provided,Complaint,Overpricing,Negative,2024-07-27
+164,Google Reviews,WhiteHat Jr,Upskilling,Tweet,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-05-19
+165,Reddit,Scaler,Upskilling,Post,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-10-23
+166,Google Reviews,UpGrad,Test Prep,Comment,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2024-09-08
+167,Google Reviews,Byju’s,Test Prep,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-05-31
+168,Google Reviews,Unacademy,Test Prep,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-08-09
+169,Google Reviews,Byju’s,Test Prep,Review,Teachers and study material are really good,Positive,Good Content,Positive,2023-03-27
+170,YouTube,Unacademy,K-12,Review,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-05-13
+171,YouTube,Unacademy,K-12,Tweet,Got placed after completing the course,Positive,Valid Placement,Positive,2023-07-20
+172,Reddit,UpGrad,K-12,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-03-27
+173,YouTube,Simplilearn,Upskilling,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-10-24
+174,Reddit,UpGrad,Upskilling,Review,"Fake placement promises, no job support",Scam,Placement Fraud,Negative,2023-01-11
+175,Google Reviews,Scaler,Upskilling,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-10-30
+176,Reddit,Scaler,Test Prep,Tweet,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-05-12
+177,Google Reviews,Byju’s,Test Prep,Post,Teachers and study material are really good,Positive,Good Content,Positive,2024-08-11
+178,YouTube,Unacademy,Upskilling,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-11-26
+179,X,Scaler,Upskilling,Comment,Got placed after completing the course,Positive,Valid Placement,Positive,2023-05-29
+180,YouTube,PhysicsWallah,Upskilling,Review,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-04-08
+181,Google Reviews,UpGrad,Upskilling,Review,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-05-23
+182,YouTube,WhiteHat Jr,K-12,Post,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-02-11
+183,X,PhysicsWallah,Test Prep,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-05-01
+184,Google Reviews,Scaler,K-12,Comment,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-02-15
+185,Reddit,Unacademy,Test Prep,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-02-29
+186,Reddit,PhysicsWallah,K-12,Tweet,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2023-04-22
+187,Google Reviews,WhiteHat Jr,K-12,Tweet,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-10-10
+188,X,UpGrad,Test Prep,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-10-16
+189,YouTube,PhysicsWallah,K-12,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2024-04-27
+190,Google Reviews,Scaler,Upskilling,Review,Sales team forced me to enroll urgently,Complaint,Sales Pressure,Negative,2024-03-21
+191,Google Reviews,Byju’s,Upskilling,Comment,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2023-12-26
+192,Reddit,PhysicsWallah,Upskilling,Comment,Course price is too high for the value provided,Complaint,Overpricing,Negative,2023-05-11
+193,Reddit,Scaler,K-12,Tweet,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2024-10-27
+194,X,Unacademy,K-12,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-11-15
+195,Google Reviews,Unacademy,K-12,Post,Got placed after completing the course,Positive,Valid Placement,Positive,2024-07-01
+196,YouTube,WhiteHat Jr,Upskilling,Post,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-12-25
+197,YouTube,Unacademy,K-12,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-01-17
+198,X,WhiteHat Jr,Test Prep,Post,Refund was denied even after multiple requests,Complaint,Refund Denial,Negative,2024-10-01
+199,Reddit,PhysicsWallah,K-12,Post,Good content but slightly expensive,Neutral,Pricing,Neutral,2023-05-17
+200,Reddit,PhysicsWallah,Test Prep,Comment,Unrealistic salary claims shown in ads,Scam,Misleading Advertisement,Negative,2023-11-28
